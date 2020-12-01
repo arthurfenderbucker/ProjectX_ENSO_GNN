@@ -1,6 +1,8 @@
 # Environment setup
 - Git clone the repo 
 
+- You can dowload the datasets [here](https://drive.google.com/drive/folders/15L2cvpAQv_c6c6gmJ8RnR2tQ_mHQR9Oz?usp=sharing).
+
 - **Overwrite [this file](hyperparams_and_args.py) so that ``data_dir`` correctly points towards your data directory.**
 
 - Implemented using Python3 (3.7) with dependencies specified in requirements.txt, install them in a clean conda environment: <br>
